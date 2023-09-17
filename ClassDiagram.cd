@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Admin5" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAEAAAAAAAAQAEAAEgQAgAoAGAAgAAEAqEAgQAIg=</HashCode>
+      <FileName>Admin5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animation" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dilevery" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiQAAAAAAAAABIAABACAYABEAAAMAIAABAQCAADQA=</HashCode>
+      <FileName>Dilevery.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Food" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACAAQAAAAAAAAEgIAAAIAAAIAACABAAAAggAAIA=</HashCode>
+      <FileName>Food.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person2" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAgAAAAAAAAAAAIAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Person1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User_Register" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACBAAgAAAAAIAARIIAAIAgAgAAAAEAABkIA=</HashCode>
+      <FileName>User_Register.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ride" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAyQAgAIABAAARAAABICAgJBEAEAsIAAABAQCAAjQA=</HashCode>
+      <FileName>Ride.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rider" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAJAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Rider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
